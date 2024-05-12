@@ -1,0 +1,7 @@
+Pedido #1
+Cliente: gg - ID: 2345 - Dirección: ggg
+Estado: D
+Productos:
+   - hhh, Código: 2345, Cantidad: 1.0, Precio: $25555.0
+Observaciones: bjkdaugdues
+--------------------------------------------------
